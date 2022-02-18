@@ -1,6 +1,6 @@
 # diary2html
 
-[![View diary2html on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/99849-diary2html)
+[![View diary2html on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://uk.mathworks.com/matlabcentral/fileexchange/106910-diary2html)
 
 <a href="https://www.mathworks.com/matlabcentral/fileexchange/99849-diary2html">
 <img src="https://user-images.githubusercontent.com/64347790/134787560-1ddbd30f-d904-41e0-9539-6b215ed7f615.png" alt="diary2html" width="25%" />
